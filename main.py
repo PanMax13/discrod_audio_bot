@@ -1,1 +1,2 @@
-print("hello_world")
+import discord
+from dotenv import load_dotenv
